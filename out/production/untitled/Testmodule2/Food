@@ -1,0 +1,8 @@
+Banana{size=1, id=3, name='úc', price=15000, quantity=950, color='yelow'}
+Apple{weight=1, id=1, name='tàu', price=20000, quantity=1000, color='blue'}
+Banana{size=3, id=4, name='pháp', price=23000, quantity=300, color='green'}
+Orange{sweet='123', id=6, name='demo', price=123, quantity=123, color='123'}
+Orange{sweet='60%', id=5, name='úc', price=50000, quantity=2000, color='orange'}
+Orange{sweet='123', id=6, name='demo2', price=123, quantity=123, color='123'}
+Apple{weight=345, id=6, name='etet', price=456456, quantity=4423, color='kkk'}
+
